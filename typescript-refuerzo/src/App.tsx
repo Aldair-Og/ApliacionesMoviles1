@@ -29,6 +29,7 @@ const App = () => {
       {/*<ArregloParametro/>*/}
       {/*<ArreglosDivididos5/>*/}
       {/*<EjersicioAlumnos/>*/}
+      
       <Acumulador5/>
     </div>
   )
